@@ -1,1 +1,1 @@
-Leetcode solution -LetCode Daily
+Leetcode solution -> LetCode Daily
